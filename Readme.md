@@ -68,7 +68,7 @@
 
 # 下载训练模型
 
-首先创建一个叫save的文件夹，然后在(https://drive.google.com/file/d/1EOEfyVuaJC1k5xAtqG37yXHxN-LnxA2n/view)中下载pkl后缀的文件，将该文接放在save文件夹中
+首先创建一个叫save的文件夹，然后在 https://drive.google.com/file/d/1EOEfyVuaJC1k5xAtqG37yXHxN-LnxA2n/view  中下载pkl后缀的文件，将该文接放在save文件夹中
 
 # 运行模型
 
